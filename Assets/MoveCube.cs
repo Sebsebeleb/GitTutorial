@@ -7,7 +7,7 @@ public class MoveCube : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hei, jeg er MoveCube");
+        
     }
 
     // Update is called once per frame
